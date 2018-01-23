@@ -1,18 +1,14 @@
-**HI**
 Michael Morrison
 ============
+mandm.4819@gmail.com (Primary)
+-------------------    
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
 
-Education
+***Education:***
 ---------
 
 2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+:   **PhD, Computer Science**; Folsom Lake College
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
@@ -23,7 +19,7 @@ Education
 
     *Minor: Awesomeology*
 
-Experience
+***Experience:***
 ----------
 
 **Your Most Recent Work Experience:**
@@ -41,7 +37,7 @@ links:
 
 Also with a short description.
 
-Technical Experience
+***Projects:***
 --------------------
 
 My Cool Side Project
