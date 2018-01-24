@@ -2,7 +2,9 @@ Michael Morrison
 ============
 mandm.4819@gmail.com (Primary)
 -------------------    
-
+***GitHub:***
+--------------------
+https://github.com/Mamorri/CSC-131
 
 ***Education:***
 ---------
@@ -36,3 +38,5 @@ mandm.4819@gmail.com (Primary)
    * a virtual instance of the classic game “Mastermind” using only x86 Assembly, complete and fully functioning for two players OR    single player mode competing against the computer utilizing a totally random key by polling the system clock and randomizing the result 
 
    * Worked alongside the FLC App Development club to create a functioning prototype campus wide chat application to automatically give students a unique chatroom for each class they have for students to interact easily outside of class. Via Android Studio and Firebase
+   
+
